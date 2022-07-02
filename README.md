@@ -1,4 +1,5 @@
 PC Store
+
 Hello!
 
 In this project i improve my C#/SQL skills. This "PC Store" have a simple database (in this folder
